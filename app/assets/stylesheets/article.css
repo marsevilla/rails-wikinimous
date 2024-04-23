@@ -1,0 +1,21 @@
+.container {
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  margin-top: 50px;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: pink;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+}
